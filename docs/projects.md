@@ -1,14 +1,11 @@
 ---
-id: projects
-title: Projects
+id: pleasebeup
+title: Please Be Up
 ---
 
-Embed any notable projects in this page.
+A web app that sends a request to a web server and displays and describes the responded status code
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+[Link](https://please-be-up.herokuapp.com/)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/project.png)
