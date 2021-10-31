@@ -1,6 +1,6 @@
 ---
-id: pleasebeup
-title: Please Be Up
+id: projects
+title: Projects
 ---
 
 A web app that sends a request to a web server and displays and describes the responded status code
